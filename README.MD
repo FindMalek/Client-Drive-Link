@@ -1,5 +1,5 @@
-# DriveLink
-A command-line tool that automates the process of extracting links to specific Google Drive folders for weekly client updates.
+# Client Drive Link
+ClientDriveLink is a CLI app that automates generating weekly links for clients. Extract links from Google Drive folders easily. Python & Google Drive API powered.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
